@@ -13,11 +13,10 @@
 🔭 I’m looking to collaborate to help me become a competitive full stack developer. <br/>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny2705&show_icons=true&theme=tokyonight){style="margin-right: 2rem;"}
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2705&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Danny2705&show_icons=true&theme=tokyonight" alt="Danny's GitHub stats" style="margin-right: 2rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2705&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="" style="margin-right: 2rem;">
 </div>
+
 
 
 
