@@ -12,5 +12,5 @@
 🎯###My Goal: <br/>
 🔭 I’m looking to collaborate to help me become a competitive full stack developer. <br/>
 
-![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny2705&show_icons=true&theme=radical)
+![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danny2705&show_icons=true&theme=tokyonight)
 
