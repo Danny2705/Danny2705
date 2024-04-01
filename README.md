@@ -13,7 +13,7 @@
 🔭 I’m looking to collaborate to help me become a competitive full stack developer. <br/>
 
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src='![](https://github-readme-streak-stats.herokuapp.com/?user=Danny2705&theme=dark&hide_border=true)'alt = '' style="margin-right: 2rem;" > <br/>
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=Danny2705&theme=dark&hide_border=true'alt = '' style="margin-right: 2rem;" > <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2705&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="" >
 </div>
 
