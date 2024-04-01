@@ -1,7 +1,5 @@
 # Hi there, I'm Danny! 👋
-<center>
-### A full stack developer 😄
-</center>
+<center>### A full stack developer 😄</center>
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
 👩🏻‍🎓 Studied Software Developer at Southern Alberta Institute of Technology (SAIT), Calgary, Alberta <br/>
