@@ -7,7 +7,7 @@
 🏡 #learninginpublic in my home <br/>
 🌱 Currently learning about AI!🤖<br/>
 
-🎯###My Goal: <br/>
+🎯My Goal: <br/>
 🔭 I’m looking to collaborate to help me become a competitive full stack developer. <br/>
 
 <div style="display: flex; align-items: center; justify-content: center;">
