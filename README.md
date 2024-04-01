@@ -1,4 +1,7 @@
 # Hi there, I'm Danny! 👋
+<div align="center">
+  ### A full stack developer 😄
+</div>
 <center>### A full stack developer 😄</center>
 
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
